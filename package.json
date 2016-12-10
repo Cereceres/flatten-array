@@ -1,0 +1,29 @@
+{
+  "name": "flatten-array",
+  "version": "0.0.1",
+  "description": "flatten a array of element given",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/flatten-array.git"
+  },
+  "keywords": [
+    "array",
+    "flatten"
+  ],
+  "author": "Jesus Cereceres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cereceres/flatten-array/issues"
+  },
+  "homepage": "https://github.com/Cereceres/flatten-array#readme",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  }
+}
