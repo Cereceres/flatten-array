@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Cereceres/flatten-array.svg?branch=master)](https://travis-ci.org/Cereceres/flatten-array)
 # flatten-array
 flatten a array of elemts given
 
