@@ -1,6 +1,6 @@
 {
   "name": "flattenarray-node",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "flatten a array of element given",
   "main": "index.js",
   "directories": {

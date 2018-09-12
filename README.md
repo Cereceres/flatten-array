@@ -1,17 +1,17 @@
 [![Build Status](https://travis-ci.org/Cereceres/flatten-array.svg?branch=master)](https://travis-ci.org/Cereceres/flatten-array)
-# flatten-array
+# flattenarray-node
 flatten a array of elemts given
 
 # install
 
 ```bash
-npm install flatten-array
+npm install flattenarray-node
 ```
 
 # Use
 
 ```js
-const flatten = require('flatten-array')
+const flatten = require('flattenarray-node')
 let arrayToFlatten = [[1,2,[3]],4]
 flatten(arrayToFlatten)// -> [1,2,3,4]
 ```
